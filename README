@@ -1,5 +1,5 @@
 This depot contains solutions for 4clojure.org problems.
 
-I am using these problems as a fun way to learn Clojure, so my solutions are probably not the greatest.
+I am using these problems as a fun way to learn Clojure, so my solutions are probably not the greatest. In some cases ugly code is actually code optimized for "code golf". :)
 
-In some cases ugly code is actually code optimized for "code golf". :)
+Over time I'd like to import all of my solutions, clean them up a bit, and include source for running the 4Clojure tests themselves using the clojure.test framework.
