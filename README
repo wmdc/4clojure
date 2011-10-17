@@ -1,0 +1,5 @@
+This depot contains solutions for 4clojure.org problems.
+
+I am using these problems as a fun way to learn Clojure, so my solutions are probably not the greatest.
+
+In some cases ugly code is actually code optimized for "code golf". :)
